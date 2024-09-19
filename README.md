@@ -1,7 +1,8 @@
 # Marketing-Analytics-Report
 
 ## Marketing Campaign Results
-![](Marketing-Analytics.png)
+# ![Marketing-Analytics](https://github.com/user-attachments/assets/6e199511-7b9b-41b0-b82d-831c4bd9ba6a)
+
 ## INTRODUCTION
 
 I obtained this Marketing campaign data of 2,240 customers of Maven Marketing, including customer profiles, product preferences, campaign successes/failures, and channel performance.
@@ -26,7 +27,8 @@ Data was efficiently cleaned and transformed using Excel, some of the applied st
 ## DATA MODELLING 
 None available in this case Except a data dictionary to clearly explain the abbreviated column headers
 ## DATA ANALYSIS AND VISUALIZATION
-![](page1.PNG)
+# ![page1](https://github.com/user-attachments/assets/4b44ed4b-09df-45f0-81f7-85a4458a00cd)
+
 The image above indicates the following, that;
 1.	Factors that affect web purchase include
 -	Education: graduate and people with higher education purchase more than others
@@ -34,7 +36,8 @@ The image above indicates the following, that;
 -	More purchase also with increase in come level but a start in decrease when income level reaches 70’sK
 -	 The web purchase is mostly done by Married people or people who are together
 -	And their age or birth is within 65’s and 80’s who have most of the purchase
-![](Page2.PNG)
+# ![Page2](https://github.com/user-attachments/assets/507e2c76-06e8-4c8a-9ab2-262d81c23b37)
+
 2.	Campaign 4 has the most successful customer conversion
 3.	An average customer can be categorizing with respect to type of buy and other internet activities, which include average purchase of (I) 6 times in store (II) 4 web purchase (III) 3 of catalog (IV) 2 when there is %deal of price and (V) visit the internet not less than 49 times
 4.	The best performing product is wine
